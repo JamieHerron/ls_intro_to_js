@@ -1,0 +1,1 @@
+console.log(`The value of 5 plus 10 is ${Number('5') + 10}`)
